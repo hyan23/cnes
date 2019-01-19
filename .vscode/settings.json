@@ -1,0 +1,49 @@
+{
+    "C_cpp.default.includePath": [
+        "include/"
+    ],
+    "files.associations": {
+        "array": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "system_error": "cpp",
+        "common.h": "c",
+        "rom.h": "c",
+        "cerrno": "c",
+        "header.h": "c",
+        "typeinfo": "cpp",
+        "6502.h": "c",
+        "stdint.h": "c",
+        "2c02.h": "c",
+        "sdl_audio.h": "c",
+        "limits.h": "c",
+        "limits": "cpp",
+        "papu.h": "c",
+        "sdl.h": "c",
+        "assert.h": "c",
+        "2a03.h": "c",
+        "cnes.h": "c",
+        "timer.h": "c",
+        "input.h": "c",
+        "layout.h": "c",
+        "initializer_list": "c",
+        "video.h": "c",
+        "ppu.h": "c",
+        "layoutp.h": "c",
+        "cmath": "c",
+        "mmc.h": "c",
+        "*.tcc": "c",
+        "connector.h": "c",
+        "types.h": "c",
+        "pair.h": "c",
+        "stdarg.h": "c",
+        "audio.h": "c",
+        "ini.h": "c",
+        "dump.h": "c",
+        "charstar.h": "c"
+    },
+    "cSpell.words": [
+        "cnes"
+    ]
+}

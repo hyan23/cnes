@@ -3,6 +3,7 @@
 // Date: 2018.04.02
 
 #include <unistd.h>
+#include <linux/time.h>
 #include "header.h"
 #include "common.h"
 #include "timer.h"
